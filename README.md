@@ -22,6 +22,6 @@ Este repositório contém o desafio de reconhecimento de texto em imagens utiliz
 - Automatizar o processo de OCR utilizando scripts em Python.
 
 ## Prints
-!Pasta Inputs
+!Pasta screenshots/Inputs.png
 
 !Pasta Output
