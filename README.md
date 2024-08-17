@@ -23,4 +23,5 @@ Este repositório contém o desafio de reconhecimento de texto em imagens utiliz
 
 ## Prints
 !Pasta Inputs
+
 !Pasta Output
