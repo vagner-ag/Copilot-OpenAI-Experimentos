@@ -9,7 +9,7 @@ Este repositório contém o desafio de reconhecimento de texto em imagens utiliz
 - `screenshots/`: Contém capturas de tela do processo.
 
 ## Processo
-1. **Criação do Repositório**: Criei um repositório no GitHub chamado `meu-desafio-ocr`.
+1. **Criação do Repositório**: Criei um repositório no GitHub chamado `Copilot-OpenAI-Experimentos`.
 2. **Pasta `inputs`**: Adicionei 10 imagens na pasta `inputs` para serem processadas.
 3. **Pasta `output`**: Salvei os resultados de OCR das imagens na pasta `output`.
 
