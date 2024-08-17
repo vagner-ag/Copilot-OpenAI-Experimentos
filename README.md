@@ -6,7 +6,7 @@ Este repositório contém o desafio de reconhecimento de texto em imagens utiliz
 ## Estrutura do Repositório
 - `inputs/`: Contém as 10 imagens utilizadas no desafio.
 - `output/`: Contém os resultados de OCR das imagens.
-- `images/`: Contém capturas de tela do processo.
+- `screenshots/`: Contém capturas de tela do processo.
 
 ## Processo
 1. **Criação do Repositório**: Criei um repositório no GitHub chamado `meu-desafio-ocr`.
